@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "name": "SwedenPower",
+    "description": "",
+    "origin_country": "US",
+    "tags": [
+      "dsx"
+    ],
+    "asset_type": "hardware_specification",
+    "rov": {
+      "mode": 0
+    },
+    "asset_category": "USER",
+    "created_at": "2022-06-28T08:46:06Z",
+    "created": 1656405966042,
+    "asset_id": "hardware_specification.SwedenPower",
+    "asset_attributes": [
+      "hardware_specification"
+    ]
+  },
+  "entity": {
+    "hardware_specification": {
+      "nodes": {
+        "cpu": {
+          "units": "2",
+          "model": ""
+        },
+        "mem": {
+          "size": "4Gi"
+        }
+      }
+    }
+  },
+  "attachments": []
+}
